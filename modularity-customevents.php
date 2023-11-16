@@ -42,7 +42,7 @@ $acfExportManager->setTextdomain('modularity-customevents');
 $acfExportManager->setExportFolder(MODULARITY_CUSTOMEVENTS_PATH . 'source/php/AcfFields/');
 $acfExportManager->autoExport(array(
     'customevents-module' => 'group_6552378ea7e89', //Update with acf id here, module view
-    //'customevents-settings' => 'group_61ea7a87e8nnn' //Update with acf id here, settings view
+    'customevents-settings' => 'group_6552415451a18' //Update with acf id here, settings view
 ));
 $acfExportManager->import();
 
