@@ -16,8 +16,8 @@ module.exports = {
      * Add your entry files here
      */
     entry: {
-        'css/modularity-{{BPREPLACESLUG}}':               './source/sass/modularity-{{BPREPLACESLUG}}.scss',
-        'js/modularity-{{BPREPLACESLUG}}':                './source/js/modularity-{{BPREPLACESLUG}}.js',
+        'css/modularity-customevents':               './source/sass/modularity-customevents.scss',
+        'js/modularity-customevents':                './source/js/modularity-customevents.js',
     },
     
     /**
